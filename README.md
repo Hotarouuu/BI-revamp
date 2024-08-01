@@ -53,11 +53,11 @@ Para uma visão mais detalhada do projeto, consulte os seguintes documentos: [Pl
 
 
 ## Tecnologias e Ferramentas
-- OCI (Oracle Cloud Infrastructure) para armazenamento em Banco de Dados e hospedagem do mesmo
-- SQL 
-- Python
-- Power BI
-- KNIME
+- **Oracle Cloud Infrastructure (OCI):** Utilizado para armazenamento e hospedagem de banco de dados. OCI oferece uma infraestrutura escalável e segura para gerenciar e acessar grandes volumes de dados com alta disponibilidade e desempenho.
+- **SQL:** Empregado para criação e manipulação do banco de dados. SQL (Structured Query Language) é fundamental para definir, consultar e modificar dados no banco de dados, além de garantir a integridade e eficiência das operações de dados.
+- **Python:** Utilizado para extração, tratamento e análise de dados. Python é uma linguagem de programação poderosa com bibliotecas como Pandas e NumPy, que facilitam a limpeza, transformação e análise de grandes conjuntos de dados.
+- **Power BI:** Ferramenta de visualização de dados que permite criar dashboards interativos e relatórios. Power BI transforma dados brutos em visualizações compreensíveis e insights acionáveis, facilitando a análise e a tomada de decisões.
+- **KNIME:** Utilizado para tratamento de dados. KNIME é uma plataforma de análise de dados que oferece ferramentas visuais para integração, transformação e modelagem de dados, permitindo um fluxo de trabalho eficiente para processamento e análise de dados.
 
 ## Licença
 Este projeto é fornecido apenas para fins de visualização. Não é permitido o uso, modificação ou redistribuição dos arquivos. Para mais informações, consulte o arquivo LICENSE.
