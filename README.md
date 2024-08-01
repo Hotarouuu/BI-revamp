@@ -47,6 +47,9 @@ Para quem deseja acessar o PowerBI completamente, segue o link para acessá-lo o
 
 https://app.powerbi.com/view?r=eyJrIjoiOTRhZjQyMDQtZWIwNi00OWJiLWJiYzMtMDM1ZjFhNDdkMzVhIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9&pageName=ReportSection
 
+Caso o link esteja indisponível, baixe este arquivo: [REVAMP_DASHBOARD2.zip](https://github.com/user-attachments/files/16461760/REVAMP_DASHBOARD2.zip)
+
+
 ## Documentação
 
 Para uma visão mais detalhada do projeto, consulte os seguintes documentos: [Plano Projeto Scrum - Até a SPRINT 3.pdf](https://github.com/user-attachments/files/16448370/Plano.Projeto.Scrum.-.Ate.a.SPRINT.3.pdf)
