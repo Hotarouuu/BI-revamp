@@ -1,7 +1,11 @@
 # BI-revamp
 
+Projeto Anual no curso de Data Science na Faculdade FIAP.
+
 ## Descrição
 Este é um projeto de Business Intelligence (BI) desenvolvido como parte do projeto CHALLENGE da Faculdade FIAP com parceria da empresa CONTABILIZEI. O objetivo principal é extrair, tratar e analisar dados para novos empreendedores sobre o mercado, com o intuito de ajudar o profissional a tomar os melhores caminhos. O projeto utiliza Python, SQL, OCI (Oracle Cloud Infrastructure), KNIME e PowerBI.
+
+Observação: O relatório simula o que seria um site com a nossa solução, pois ela é visada como um produto para pequenos empreendedores, apesar de ser parte de um projeto com parceria de uma empresa.
 
 ## Funcionalidades
 
