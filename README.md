@@ -19,7 +19,11 @@ Aqui estão alguns exemplos do que o projeto pode fazer:
 ![image](https://github.com/user-attachments/assets/e0a6d743-dd00-40ba-b176-a834f88f9b4a)
 
 
-### Relatório: https://app.powerbi.com/view?r=eyJrIjoiOTRhZjQyMDQtZWIwNi00OWJiLWJiYzMtMDM1ZjFhNDdkMzVhIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9&pageName=ReportSection
+### Relatório:
+
+Para quem deseja acessar o PowerBI completamente, segue o link para acessa-lo online:
+
+https://app.powerbi.com/view?r=eyJrIjoiOTRhZjQyMDQtZWIwNi00OWJiLWJiYzMtMDM1ZjFhNDdkMzVhIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9&pageName=ReportSection
 
 ## Documentação
 
