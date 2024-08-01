@@ -4,8 +4,14 @@
 Este é um projeto de Business Intelligence (BI) desenvolvido como parte do projeto CHALLENGE da Faculdade FIAP com parceria da empresa CONTABILIZEI. O objetivo principal é extrair, tratar e analisar dados para novos empreendedores sobre o mercado, com o intuito de ajudar o profissional a tomar os melhores caminhos. O projeto utiliza Python, SQL, OCI (Oracle Cloud Infrastructure), KNIME e PowerBI.
 
 ## Funcionalidades
-Visualizações: Dashboards interativos contendo gráficos de pizza, crescimento anual e barra. Contém também cartões indicando valores.
-Relatórios: Todos os relatórios são iguais, mantendo um padrão. Utilizamos medidas simples por ser apenas um MVP. Entre eles são: renda média mensal por profissão, renda trimestral, crescimento da renda anual, e análise de renda média por fontes de dados.
+
+### Visualizações: 
+
+Dashboards interativos contendo gráficos de pizza, crescimento anual e barra. Contém também cartões indicando valores.
+
+### Relatórios: 
+
+Todos os relatórios são iguais, mantendo um padrão. Utilizamos medidas simples por ser apenas um MVP. Entre eles são: renda média mensal por profissão, renda trimestral, crescimento da renda anual, e análise de renda média por fontes de dados.
 
 ## Demonstrações
 Aqui estão alguns exemplos do que o projeto pode fazer:
